@@ -1,5 +1,4 @@
-package typeinfo;
-
+package typeinfo;//: typeinfo/ClassInitialization.java
 import java.util.*;
 
 class Initable {
@@ -40,4 +39,14 @@ public class ClassInitialization {
     System.out.println("After creating Initable3 ref");
     System.out.println(Initable3.staticNonFinal);
   }
-}
+} /* Output:
+After creating Initable ref
+47
+Initializing Initable
+258
+Initializing Initable2
+147
+Initializing Initable3
+After creating Initable3 ref
+74
+*///:~
