@@ -1,4 +1,4 @@
-package control;//: control/ForEachString.java
+package chapter04;//: control/ForEachString.java
 
 public class ForEachString {
   public static void main(String[] args) {

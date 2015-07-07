@@ -1,4 +1,4 @@
-package control;//: control/ListCharacters.java
+package chapter04;//: control/ListCharacters.java
 // Demonstrates "for" loop by listing
 // all the lowercase ASCII letters.
 
