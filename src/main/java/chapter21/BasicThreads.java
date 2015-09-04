@@ -1,4 +1,4 @@
-package concurrency;//: concurrency/BasicThreads.java
+package chapter21;//: chapter21/BasicThreads.java
 // The most basic use of the Thread class.
 
 public class BasicThreads {

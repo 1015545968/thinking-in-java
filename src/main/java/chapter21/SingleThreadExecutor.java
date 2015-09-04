@@ -1,4 +1,4 @@
-package concurrency;//: concurrency/SingleThreadExecutor.java
+package chapter21;//: chapter21/SingleThreadExecutor.java
 import java.util.concurrent.*;
 
 public class SingleThreadExecutor {

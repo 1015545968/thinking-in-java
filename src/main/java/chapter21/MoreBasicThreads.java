@@ -1,4 +1,4 @@
-package concurrency;//: concurrency/MoreBasicThreads.java
+package chapter21;//: chapter21/MoreBasicThreads.java
 // Adding more threads.
 
 public class MoreBasicThreads {

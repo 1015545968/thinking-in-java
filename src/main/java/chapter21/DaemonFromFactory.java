@@ -1,4 +1,4 @@
-package concurrency;//: concurrency/DaemonFromFactory.java
+package chapter21;//: chapter21/DaemonFromFactory.java
 // Using a Thread Factory to create daemons.
 import net.mindview.util.DaemonThreadFactory;
 

@@ -1,4 +1,4 @@
-package concurrency;//: concurrency/SleepingTask.java
+package chapter21;//: chapter21/SleepingTask.java
 // Calling sleep() to pause for a while.
 import java.util.concurrent.*;
 

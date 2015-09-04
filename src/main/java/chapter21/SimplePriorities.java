@@ -1,4 +1,4 @@
-package concurrency;//: concurrency/SimplePriorities.java
+package chapter21;//: chapter21/SimplePriorities.java
 // Shows the use of thread priorities.
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

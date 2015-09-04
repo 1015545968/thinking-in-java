@@ -1,4 +1,4 @@
-package concurrency;//: concurrency/Joining.java
+package chapter21;//: chapter21/Joining.java
 // Understanding join().
 import static net.mindview.util.Print.print;
 

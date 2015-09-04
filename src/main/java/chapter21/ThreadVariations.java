@@ -1,4 +1,4 @@
-package concurrency;//: concurrency/ThreadVariations.java
+package chapter21;//: chapter21/ThreadVariations.java
 // Creating threads with inner classes.
 import java.util.concurrent.*;
 import static net.mindview.util.Print.*;

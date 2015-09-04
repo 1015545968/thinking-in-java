@@ -1,4 +1,4 @@
-package concurrency;//: concurrency/Daemons.java
+package chapter21;//: chapter21/Daemons.java
 // Daemon threads spawn other daemon threads.
 import java.util.concurrent.TimeUnit;
 

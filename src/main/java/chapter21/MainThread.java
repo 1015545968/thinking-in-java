@@ -1,4 +1,4 @@
-package concurrency;//: concurrency/MainThread.java
+package chapter21;//: chapter21/MainThread.java
 
 public class MainThread {
   public static void main(String[] args) {
